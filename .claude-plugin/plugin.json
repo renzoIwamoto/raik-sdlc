@@ -1,0 +1,10 @@
+{
+  "name": "raik-sdlc",
+  "description": "Agent-agnostic software delivery workflow: one orchestrator skill routes across product, domain, architecture, design, decisions, changes, build, debug, verify, review, ship, ops and memory, with gates for decisions, evidence and authorization.",
+  "version": "0.1.0",
+  "author": { "name": "Renzo Iwamoto" },
+  "homepage": "https://github.com/renzoIwamoto/raik-sdlc",
+  "repository": "https://github.com/renzoIwamoto/raik-sdlc",
+  "license": "MIT",
+  "keywords": ["sdlc", "workflow", "openspec", "playwright", "agent-skills"]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "raik-sdlc",
+  "owner": { "name": "Renzo Iwamoto" },
+  "plugins": [
+    {
+      "name": "raik-sdlc",
+      "source": "./",
+      "description": "Agent-agnostic software delivery workflow with an orchestrator skill and workflow gates."
+    }
+  ]
+}
